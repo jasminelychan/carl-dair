@@ -1,0 +1,40 @@
+html{
+    width:60vw;
+    font-size:1.2em;
+}
+
+body{
+    font-family:"Garamond", serif;
+    background-color:#e9eff5;
+    margin-left:60px;
+}
+
+h1{
+    font-weight:600;
+    color:#d68618;
+    padding-bottom:20px;
+}
+
+h2{
+    font-size:1.2rem;
+    font-weight:300;
+
+}
+
+h3{
+    font-style:italic;
+    color:#8a8a8a;
+}
+
+h4{
+    
+}
+
+p{
+    font-size:1rem;
+    padding-top:-20px
+}
+
+ul{
+    color:#d68618;
+}
